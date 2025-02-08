@@ -121,5 +121,5 @@
 
 ## 版权声明
 
-- 请移步LICENSE查看
+- 请移步[LICENSE](https://github.com/Ryorin1337/AdminTerminal-release/blob/main/LICENSE)查看
 ---
