@@ -1,0 +1,199 @@
+AdminTerminal End User License Agreement (EULA)
+
+Version: 1.2
+Release Date: February 6, 2025
+
+Copyright Notice
+
+1. Ownership
+
+Plugin Name: AdminTerminal (hereinafter referred to as "the Plugin").
+
+Copyright Holders: Ryorin (凌琳) and Naro-Xeno (lnxgeist), who jointly own the copyright of this Plugin.
+
+Copyright (C) 2025. All Rights Reserved.
+
+2. Scope of Protection
+
+This Plugin, along with its related documentation, resources, code, and design, is protected by copyright laws and international treaties.
+
+Any unauthorized reproduction, modification, distribution, sale, or transmission of this Plugin or its derivative works in any form is strictly prohibited.
+
+
+---
+
+License Terms
+
+1. Personal Use License
+
+Individual users are allowed to download, install, and use this Plugin free of charge for non-commercial purposes.
+
+This Plugin may be used on non-profit Minecraft servers, including public service servers and community servers.
+
+
+2. Commercial Use License
+
+Scope of Application:
+
+Commercial use includes but is not limited to enterprise servers, commercial servers, paid plugin packages, and subscription services that involve direct or indirect profit.
+
+
+Authorization Requirements:
+
+A commercial license must be purchased through official channels.
+
+The price of the commercial license is solely determined by the developers and may change at any time without prior notice.
+
+
+Restrictions:
+
+A commercial license cannot be resold, transferred, leased, or shared with third parties.
+
+The developers reserve the right to grant free commercial licenses to certain users (e.g., partners), and such licenses are not bound by this agreement.
+
+
+Purchase Process:
+
+To obtain a commercial license, contact the developers at:
+
+Email: [xliu16376@gmail.com] or [lnxgeist@naroxeno.xyz]
+
+
+3. Prohibited Actions
+
+Users are strictly prohibited from engaging in the following activities:
+
+Unauthorized distribution: Copying, distributing, selling, leasing, or republishing the Plugin or its derivative works.
+
+Technical tampering: Reverse engineering, decompiling, disassembling, or attempting to extract the source code.
+
+Alteration of copyright information: Removing, modifying, or obscuring any copyright notices, license statements, or developer information.
+
+Unlicensed commercial use: Using this Plugin for any profit-driven activities without an official commercial license.
+
+
+
+---
+
+Disclaimer
+
+1. This Plugin is provided "as is", and the developers do not guarantee its functionality, stability, or security.
+
+
+2. The developers are not responsible for any damages, including but not limited to server crashes, data loss, or financial losses, resulting from the use of this Plugin.
+
+
+3. The developers reserve the right to modify, discontinue, or withdraw this Plugin at any time without prior notice.
+
+
+
+
+---
+
+License Modifications
+
+1. The developers reserve the right to modify, update, or revoke this license at any time without prior notice.
+
+
+2. Updated license versions will be published on the Plugin’s release page, official channels, or included in the README file. The developers are not obligated to notify users individually.
+
+
+3. By continuing to use the Plugin, users agree to the latest version of this license. If users disagree with any changes, they must immediately stop using the Plugin.
+
+
+4. Users are responsible for checking for license updates and deciding whether to continue using the Plugin.
+
+
+
+
+---
+
+Acceptance of Terms
+
+1. By downloading, installing, or using this Plugin, the user acknowledges that they have read, understood, and agreed to abide by this End User License Agreement (EULA).
+
+
+2. If a user does not agree to any part of this agreement, they must immediately cease using and delete this Plugin and all related files.
+
+
+
+
+---
+
+Bukkit API and License Compliance
+
+1. This Plugin is developed based on Bukkit API, but it does not contain Bukkit API code. It only depends on Bukkit API at runtime.
+
+
+2. This Plugin does not contain any CraftBukkit, Spigot, or NMS (net.minecraft.server) code and is therefore not subject to the GPL-3.0 license.
+
+
+3. This Plugin complies with the LGPL-3.0 license for Bukkit API usage, allowing dynamic loading of the API on the server without requiring the Plugin itself to be open-source.
+
+
+4. All rights to this Plugin belong to the developers. Any reproduction, modification, distribution, or commercial use without permission is strictly prohibited.
+
+
+
+
+---
+
+Minecraft EULA Compliance
+
+1. This Plugin strictly complies with the official Minecraft End User License Agreement (EULA).
+
+
+2. The Plugin does not charge regular players for its features. All commercial license fees apply only to server operators, ensuring compliance with Minecraft’s EULA on monetization restrictions.
+
+
+
+
+---
+
+Liability for Breach
+
+1. Violating this agreement may result in:
+
+Revocation of the commercial license and termination of Plugin access.
+
+Denial of future updates and support.
+
+Legal action for unauthorized distribution, sales, or modifications.
+
+
+
+2. In the event of a commercial license violation, the developers reserve the right to pursue financial compensation for damages.
+
+
+
+
+---
+
+Contact Information
+
+For questions regarding licensing or authorization, please contact the developers:
+
+Email: [xliu16376@gmail.com] or [lnxgeist@naroxeno.xyz]
+
+
+
+---
+
+Appendix: Definitions
+
+"Personal Use": Free use of the Plugin by individual users or community servers in a non-commercial environment.
+
+"Commercial Use": Any usage of the Plugin by a business, server, or organization that involves direct or indirect profit.
+
+"Profitable Scenarios": Includes but is not limited to paid servers, subscription services, and corporate operations.
+
+"Unauthorized Distribution": Any reproduction, modification, sale, lease, or redistribution of the Plugin without authorization.
+
+
+
+---
+
+End of Document
+
+
+---
